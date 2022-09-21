@@ -1,4 +1,3 @@
-### Hi there, I'm Priyanka Chaudhari 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Priyanka!;I'm+a+learning+javascript...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on building beautiful web application with JavaScript.

@@ -6,7 +6,6 @@
 -  ✒I write code.
 - ♥I love tech wold.
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/i1IdJ8It8kVDVjiHvV/giphy.gif">
   <img width="250" src="https://media.giphy.com/media/QeXn5KXBd4WGUS9ghI/giphy.gif">
   <img width="250" src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif">
 </p>
